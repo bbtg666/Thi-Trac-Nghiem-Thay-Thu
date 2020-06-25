@@ -1,0 +1,195 @@
+17
+D15CQCN01# CN12# 1
+N15DCCN002# LE THI# QUYNH# 2 123# 1
+TA102# 10 8
+50 1
+84 4
+71 3
+70 3
+52 2
+72 4
+64 3
+65 1
+88 4
+87 1
+D15CQCN02# CN2# 3
+N15DCCN014# NGUYEN TRUONG# GIANG# 1 123# 3
+HCM123# 5 4
+143 1
+149 2
+138 2
+140 2
+136 1
+INT123# 20 1.5
+106 4
+127 1
+121 3
+120 2
+102 2
+119 3
+105 2
+118 4
+126 2
+116 3
+125 2
+122 1
+110 1
+124 2
+114 2
+115 1
+113 2
+123 2
+112 2
+109 1
+TA102# 5 4
+70 1
+55 2
+60 2
+65 3
+88 1
+N15DCCN118# Le Thi Kim# Ngan# 2 123# 0
+N15DCCN120# Nguyen Thi Kim# Ngan# 2 123# 0
+D15CQCN03# CN3# 1
+N15DCCN200# Nguyen Viet# Hung# 1 123# 0
+D15CQDT01# Dien Tu 1# 0
+D15CQDT02# Dien Tu 2# 0
+D15CQDT03# Dien Tu 3# 0
+D15CQKT01# Ke Toan 1# 0
+D15CQKT02# Ke Toan 2# 0
+D15CQKT03# Ke Toan 03# 0
+D15CQQT02# Quan tri kinh doanh 2# 0
+D15CQQT03# Quan Tri Kinh Doanh 5# 0
+D16CQCN01# CN1# 0
+D16CQCN02# CN2# 0
+D16CQCN03# CN3# 0
+D16CQKT01# KT01# 40
+N16DCKT002# Le Nguyen Phuong# Anh# 2 123# 1
+TA102# 10 0
+160 2
+453 3
+8 -1
+402 -1
+872 -1
+6 -1
+661 -1
+185 -1
+892 -1
+527 1
+N16DCKT004# Le Thi Tram# Anh# 2 123# 0
+N16DCKT006# Dang Thi# Bao# 2 123# 0
+N16DCKT007# Nguyen Thi# Bich# 2 123# 0
+N16DCKT009# Nguyen Thi Anh# Dao# 2 123# 0
+N16DCKT010# Lam Thi Ngoc# Giau# 2 123# 0
+N16DCKT012# Pham Thi Thu# Ha# 2 123# 0
+N16DCKT013# Phan Thi Thu# Ha# 2 123# 0
+N16DCKT014# Nguyen Thi# Hao# 2 123# 0
+N16DCKT015# Ngo Thi Thu# Hang# 2 123# 0
+N16DCKT017# Huynh Thi Anh# Hong# 2 123# 0
+N16DCKT018# Nguyen Thu# Huyen# 2 123# 2
+HCM123# 5 0
+134 2
+140 2
+147 2
+145 2
+150 2
+TA102# 5 2
+72 2
+76 3
+66 3
+67 1
+64 2
+N16DCKT019# Nong Thi Phuong# Lan# 2 123# 0
+N16DCKT020# Nguyen Thi Thuy# Lan# 2 123# 1
+TA102# 4 5
+867 2
+402 2
+987 1
+168 3
+N16DCKT023# Nguyen Huu# Long# 1 123# 0
+N16DCKT024# Pham Thi Thao# Ly# 2 123# 0
+N16DCKT025# Do Hoang# Mai# 2 123# 0
+N16DCKT027# Doan Thi Thu# Nguyen# 2 123# 0
+N16DCKT029# Kim Dang Minh# Nguyet# 2 123# 0
+N16DCKT031# Tran Thi Thanh# Nhan# 2 123# 0
+N16DCKT032# Le Thi Quynh# Nhu# 2 123# 0
+N16DCKT033# Nguyen Quynh# Nhu# 2 123# 0
+N16DCKT034# Nguyen Thi Quynh# Nhu# 2 123# 0
+N16DCKT039# Pham Bich# Phuong# 2 123# 0
+N16DCKT040# Nguyen Thi Phuong# Quyen# 2 123# 0
+N16DCKT041# Doan Huynh Nhu# Quynh# 2 123# 0
+N16DCKT044# Nguyen Thi# Ty# 2 123# 0
+N16DCKT046# Ngo Thi Kim# Thoa# 2 123# 0
+N16DCKT047# Phan Nguyen Anh# Thu# 2 123# 0
+N16DCKT048# Le Hoang Mai# Thy# 2 123# 0
+N16DCKT049# Nguyen Thi Hong# Trang# 2 123# 0
+N16DCKT051# Luu Tran Bao# Tran# 2 123# 0
+N16DCKT052# Bao Ngoc Phuong# Trinh# 2 123# 0
+N16DCKT053# Nguyen Thi Hong# Trinh# 2 123# 0
+N16DCKT054# Nguyen Thuy Tuyet# Trinh# 2 123# 0
+N16DCKT055# Duong Vu Thuc# Uyen# 2 123# 0
+N16DCKT056# Truong Hoang Diem# Uyen# 2 123# 0
+N16DCKT057# Nguyen Thi Hoa# Mai# 2 123# 0
+N16DCKT058# Tu Thi Thu# Phuong# 2 123# 0
+N16DCKT059# Thi anh# Nguyet# 2 123# 0
+D16CQMR01# MR01# 40
+N16DCMR001# Nguyen Thi Thuy# Diem# 2 123# 0
+N16DCMR002# Nguyen Thi Yen# Diem# 2 123# 0
+N16DCMR005# Vu Chi# Dung# 1 123# 0
+N16DCMR006# Do Thi My# Duyen# 2 123# 0
+N16DCMR007# Vu Minh# Dai# 1 123# 0
+N16DCMR008# Nguyen Thi My# Duc# 2 123# 0
+N16DCMR009# Duong Thi# Ha# 2 123# 0
+N16DCMR010# Le Ngoc Diem# Ha# 2 123# 0
+N16DCMR012# Nguyen Thi# Ha# 2 123# 0
+N16DCMR015# Nguyen Thi Ngoc# Hanh# 2 123# 0
+N16DCMR016# Vu Thi# Hang# 2 123# 0
+N16DCMR017# Phan My# Han# 2 123# 0
+N16DCMR018# Bui Thi# Hong# 2 123# 0
+N16DCMR019# Cao Minh# Huy# 1 123# 0
+N16DCMR020# Nguyen Thi# Huyen# 2 123# 0
+N16DCMR021# Phan Thi Le# Huyen# 2 123# 0
+N16DCMR022# Kieu Hoang# Khang# 1 123# 0
+N16DCMR023# Duong Pham Minh# Khoi# 1 123# 0
+N16DCMR024# Le Thi Truc# Linh# 2 123# 0
+N16DCMR026# Pham Thi Bao# Linh# 2 123# 0
+N16DCMR027# Nguyen Thi# Luu# 2 123# 0
+N16DCMR029# Nguyen Thi Bich# Ngan# 2 123# 0
+N16DCMR030# Nguyen Tran Thi Kim# Ngan# 2 123# 0
+N16DCMR033# Le Thi Tuyet# Nhung# 2 123# 0
+N16DCMR034# Le Trinh Nhu# Quynh# 2 123# 0
+N16DCMR035# Cao Thi Anh# Suong# 2 123# 0
+N16DCMR037# Mai Thi Tuyet# Suong# 2 123# 0
+N16DCMR039# Nguyen Thi Bich# Tam# 2 123# 0
+N16DCMR041# Bien Thi Thuy# Tien# 2 123# 0
+N16DCMR043# Vu Thi Mong# Tuyen# 2 123# 0
+N16DCMR044# Vo Kim# Tuyen# 1 123# 0
+N16DCMR046# Nguyen Thi# Thao# 2 123# 0
+N16DCMR047# Nguyen Hoang# Thong# 1 123# 0
+N16DCMR049# Ho Thi Xuan# Thuy# 2 123# 0
+N16DCMR050# Do Thi Thu# Trang# 2 123# 0
+N16DCMR052# Nguyen Hoang Phuong# Truc# 2 123# 0
+N16DCMR053# Nguyen Xuan# Truong# 2 123# 0
+N16DCMR055# Ngo Thi# Vui# 2 123# 0
+N16DCMR056# Tran Vo Khanh# Vy# 2 123# 0
+N16DCMR057# Ly# Hoa# 2 123# 0
+D16CQQT01# Quan tri kinh doanh 1# 20
+N16DCQT004# Tran My# Chi# 2 123# 0
+N16DCQT011# Le Thi Thu# Hien# 2 123# 0
+N16DCQT013# Nguyen Thi# Hue# 2 123# 0
+N16DCQT016# Nguyen Le Ngoc# Khanh# 2 123# 0
+N16DCQT018# Tran Thi Tra# My# 2 123# 0
+N16DCQT019# Nguyen Van Thao# Nguyen# 2 123# 0
+N16DCQT021# Nguyen Thi Hue# Nhi# 2 123# 0
+N16DCQT022# Tran Thi Ngoc# Nhien# 2 123# 0
+N16DCQT023# Hoang Le Phuong# Nhu# 2 123# 0
+N16DCQT024# Ngo Thi Quynh# Nhu# 1 123# 0
+N16DCQT025# Hoang Thi Hong# Phuoc# 1 123# 0
+N16DCQT029# Tran Thi Cam# Tien# 1 123# 0
+N16DCQT030# Vo Thu# Thao# 2 123# 0
+N16DCQT032# Tu Vuong Duy# Thong# 1 123# 0
+N16DCQT033# Bui Thi Minh# Thu# 2 123# 0
+N16DCQT034# Tran Thi Minh# Thu# 2 123# 0
+N16DCQT037# Nguyen Thi Vy# Thuong# 2 123# 0
+N16DCQT038# Doan Thi Huyen# Trang# 2 123# 0
+N16DCQT039# Tran Thi Quynh# Trang# 2 123# 0
+N16DCQT040# Lai Ngoc Phuong# Trinh# 2 123# 0

@@ -1,0 +1,94 @@
+93
+6 TA102# This is the factory________ at work.?# they are# where they are# where are# in where they are# 2
+8 TA102# His teacher regrets _______ him that his application for the job has been turned down.?# tell# to tell# telling# tells# 3
+11 TA102# All her life she had a _______ trust in other people.?# child# childlike# childish# childless# 2
+23 TA102# She seems to have spent all her life studying in _______ establishments.?# education# educate# educated# educational# 1
+28 INT123# De mo mot file san co tren dia trong chuong trinh Word ta dung lenh va to hop phim nao?# File\Open & ctrl-N# File\Open & ctrl-O# File\Open & ctrl-M# File\Open & ctrl-H# 2
+51 HCM123# Nguyen Ai Quoc tu Lien Xo ve Trung Quoc vao thoi gian nao?# 12/1924# 10 2020# 11/1924# 10/1924# 1
+57 INT123# Chuyen sang chu hoa dau tu ta dung lenh: format\change case# Title Case# Lower Case# Sentence Case# Upper Case# 1
+69 HCM123# Viet Nam Quoc dan dang duoc thanh lap vao thoi gian nao?# 12/1927# 11/1926# 08/1925# 07/1925# 1
+81 INT123# De copy mot doan van ban ta dung cap lenh nao?# Edit\Copy-Edit\Paste# Edit\Cut-Edit\Paste# Ca hai deu dung# Ca hai deu sai# 1
+108 TA102# Don't you think my jeans need _______?# clean# to clean# cleaning# cleans# 3
+109 INT123# Bam to hop phim Ctrl + B trong Microsoft Word 2010 se thuc hien chuc nang gi cho khoi van ban dang chon?# Bat/Tat chu dam# Bat/Tat chu nghieng# Bat/Tat chu gach chan# Bat/Tat chu chi so duoi (Bottom)# 1
+121 HCM123# Bao Doi song cong nhan la cua to chuc nao?# Dang xa hoi Phap# Dang cong san Phap# Tong Lien doan Lao dong Phap# Hoi Lien hiep thuoc dia# 3
+149 TA102# That girl tried to avoid _______ some of my s.?# answer# to answer# answering# answered# 3
+150 HCM123# Luan cuong Chinh tri do dong chi Tran Phu khoi thao ra doi vao thoi gian nao?# 02-1930# 10-1930# 09-1930# 08-1930# 2
+160 TA102# Susan _______ her family after she had taken the university entrance examination?# phoned# had phoned# phones# is phoning# 1
+165 HCM123# Viet Nam Giai phong quan duoc thanh lap vao thoi gian nao?# 09-1940# 12-1941# 12-1944# 04-1945# 4
+168 TA102# Earl was one of the first American artists _______ landscapes.?# painting# painted#  for painting# to paint# 4
+179 INT123# Bam to hop phim Ctrl + I trong Microsoft Word 2010 se thuc hien chuc nang gi cho khoi van ban dang chon?# Bat/Tat chu dam# Bat/Tat chu nghieng # Bat/Tat chu gach chan# Bat/Tat chu chi so duoi (Bottom)# 2
+185 TA102#  ___________he is tired, he can’t work longer.?# Because# Even though#  Although# Besides# 1
+186 HCM123# Hoi nghi BCH TW dang 5/1941 hop o dau? do ai chu tri?# Cao Bang, Nguyen Ai Quoc# Cao Bang, Truong Chinh# Bac Can, Truong Chinh# Tuyen Quang, Nguyen Ai Quoc# 1
+189 INT123# Muon biet ta da go duoc may tu thi dung lenh?# Tools\Spelling and Grammar# Tools\Option# Tools\Count# Co hai cau dung trong 3 cau# 1
+220 TA102#  ___________it was so cold, he went out without an overcoat.?# If# Since#  Although# Because# 3
+233 INT123# Bam to hop phim Ctrl + Shift + = trong Microsoft Word 2010 se thuc hien chuc nang gi cho khoi van ban dang chon?# Bat/Tat chu chi so tren# Bat/Tat chu chi so duoi# Bat/Tat chu hoa# Bat/Tat chu thuong# 1
+247 INT123# Tron cac o lai voi nhau ta su dung menu lenh?# Table\Formula# Table\Sort# Table\Meger Cells# Table\Split Cells# 3
+248 TA102# He is having a lot of difficulties, ?# doesn't it# isn't it# isn't he# doesn't he# 3
+254 TA102# How many cities you and your uncle _______ by July last summer?# visited# had visited# did you visit# had you visited# 2
+259 HCM123# Doi Viet Nam tuyen truyen giai phong quan luc dau thanh lap co bao nhieu chien si?# 33# 34# 35# 36# 2
+287 TA102# We would love _______ three cups of coffee?# have#  to have# having# had# 2
+310 TA102# I am sorry that I can't ________ your invitation.?# take#  accept#  agree# have# 2
+328 HCM123# Quoc hoi dau tien cua nuoc Viet Nam dan chu cong hoa duoc bau khi nao?# 04/01/1946# 05/01/1946# 06/01/1946# 07/01/1946# 3
+329 INT123# Edit\Select all tuong ung voi phim tat nao?# Ctrl - A# Ctrl - L# Ctrl - K# A,C sai# 1
+367 TA102# We wish _______ to college next year.?# go# to go# going# shall go# 2
+372 TA102# Sam didn't get much formal _______.?# school# schooling# schooldays# schoolgirl# 2
+387 HCM123# Chien tranh the gioi II bung no vao thoi gian nao?# 1937# 1938# 1939# 1940# 3
+388 HCM123# Hien phap dau tien cua nuoc Viet Nam dan chu cong hoa duoc thong qua vao thoi gian nao?# 09/11/1945# 10/10/1946# 09/11/1946# 09/11/1947# 3
+400 INT123# Lap lai cac dong tieu de cua bang bieu ta dung?# Table\Heading Row repeat# Table\Sort# Table\Formular# Ca ba deu sai# 1
+402 TA102# I enjoyed ________ my grandmother during my summer vacation.?# seeing# see#  to see# to seeing# 1
+404 TA102# By the end of last summer, the farmers _______ all the crop?# harvested# had harvested# harvest# are harvested# 2
+409 TA102# He'll be remembered both as a brilliant footballer and as a true _______.?# sport# sporting# sportsman# sports car# 3
+438 INT103# sdfdsf# fdsfds# fsdf# fsd# fsd# 1
+443 HCM123# Chien khu cach mang nao duoc goi la De tu chien khu?# Tran Hung Dao# Hoang Hoa Tham# Le Loi# Quang Trung# 1
+453 TA102# Peter was in New York last week; he _______ in Washington D.C. three days earlier?# was# had been# is# was being# 2
+456 TA102# He suggested _______ to France this summer time?# travel# to travel# traveling# traveled# 3
+470 HCM123# To chuc cong san nao ra doi dau tien o Viet Nam?# Hoi Viet Nam cach mang thanh nien# Dong Duong cong san Dang# An Nam cong san Dang# Dong Duong cong san lien doan# 2
+485 TA102# She was a _______ child, happiest when reading.?# study# studied# studious# studiously# 3
+489 TA102# Three women, none of whom we _______ before, _______ out of the hall?# saw-had come# had seen-came# saw-came# had seen-had come# 2
+492 HCM123# Tinh hinh dat nuoc ta sau cach mang thang 8 duoc vi nhu hinh anh gi?# Nuoc soi lua nong# Nuoc soi lua bong# Ngan can treo soi toc# Trung nuoc# 3
+495 INT123# Bam to hop phim Ctrl + U trong Microsoft Word 2010 se thuc hien chuc nang gi cho khoi van ban dang chon?# Bat/Tat chu dam# Bat/Tat chu nghieng# Bat/Tat chu gach chan# Bat/Tat chu chi so duoi (Bottom)# 3
+523 TA102# They will never forget _______ the Prince.?# see# to see# seeing# will see# 3
+526 HCM123# Khoi nghia Yen Bai no ra vao thoi gian nao?# 9-2-1930# 9-3-1930# 3-2-1930# 9-3-1931# 1
+527 TA102# Put plants ............... a window so that they will get enough light.?# near to# near of# next to# nearly# 3
+531 TA102# They agreed _______ us some more money.?# lend# to lend# lending# lent# 2
+546 HCM123# Ten cua luc luong vu trang duoc thanh lap o Nghe Tinh trong cao trao cach mang nam 1930 la gi?# Du kich# Tu ve# Tu ve do# Tu ve chien dau# 3
+553 INT123# Danh so trang cho mot file van ban ta dung lenh?# Insert\Page number# Insert\Date and Time# Insert\Break# Khong co cau nao dung# 1
+570 TA102# My computer makes a _______ low buzzing noise?# continue # continued# continuing# continuous# 4
+582 INT123# Tao khoang cach cac dong la hai dong thi dung to hop phim nao?# Ctrl-2# Ctrl-0# Ctrl-1# a, b dung# 4
+585 TA102# When we went back to the bookstore, the bookseller _______ the book we wantedsold?# had# sold# sells# has sold# 2
+590 TA102# Wow! What a _______ your sister is! I couldn't get off the phone!?# talk# talking# talker# talkative# 4
+598 INT123# De chon hieu ung cho chu ta chon the nao trong format\Font?# Text effects# Charater spacing# Ca ba deu sai# Font# 1
+603 INT123# De trinh bay van ban theo kieu liet ke ta dung lenh nao sau day?# Format\Tab# Format\bullet and numbe# Format\direction# Format\paragraph# 2
+608 HCM123# Ai la Tong Bi Thu dau tien cua Dang?# Ho Chi Minh# Tran Van Cung# Tran Phu# Le Hong Phong# 3
+612 HCM123# Nhung kho khan thach thuc cua Viet Nam sau cach mang thang 8?# Cac the luc phan dong, de quoc bao vay chong pha# Kinh te kiet que, nan doi hoanh hanh# Hon 90% dan so khong biet chu# Tat ca cac phuong an tren# 4
+613 INT123# Co the thoat chuong trinh Microsoft Word 2010 bang cach?# Kich chuot vao the File/Exit.# Bam to hop phim Ctrl + F4# Click chuot vao bieu tuong Close# Ca 3 phuong an tren deu dung# 4
+625 INT123# Tao dau trang va chan trang ta dung lenh?# View\Header# View\Header and Footer# View\Footer# Ca ba deu sai# 2
+638 TA101# What mean of Hello?# Tam biet# Xin chao# Chuc ngu ngon# Tat ca dau sai# 2
+643 TA102# They _______ through horrible times during the war years.?# lived# had lived# live# are living# 1
+661 TA102# In 1778, he ________ to London to study with Benjamin West for four years.?# has gone# had gone#  would go# went# 4
+689 HCM123# Chien khu Hoa-Ninh-Thanh con co ten la gi?# Tran Hung Dao# Hoang Hoa Tham# Le Loi# Quang Trung# 4
+699 INT123# Bam to hop phim Ctrl + = trong Microsoft Word 2010 se thuc hien chuc nang gi cho khoi van ban dang chon# Bat/Tat chu chi so tren# Bat/Tat chu chi so duoi# Bat/Tat chu hoa# Bat/Tat chu thuong# 3
+713 HCM123# Ha Noi duoc xac dinh la thu do cua Viet Nam vao nam nao?# 1945# 1946# 1954# 1930# 2
+714 HCM123# Thoi gian thuc dan Phap tien hanh khai thac thuoc dia lan thu I o Viet Nam?# 1858-1884# 1884-1896# 1896-1913# 1914-1918# 3
+727 INT123# To mau cho doan van ban ta dung lenh?# Format\border and shading# Format\Header and Footer# Format\Change Case# Format\Drop cap# 3
+734 HCM123# Hoi nghi trung uong 6 hop tai dau?# Tan Trao(Tuyen Quang)# Ba Diem(Gia Dinh)# Dinh Bang(Bac Ninh)# Thai Nguyen# 2
+749 INT123# Chen mot ki tu dac biet ta dung?# Insert\Text box# Insert\File# Insert\Symbol# Insert\Picture# 3
+781 INT123# Lenh nao sau day tuong ung voi phim tat Ctrl-D?# Format\Font style# Insert\Font# Font\Style# Format/Font# 4
+807 INT123# Thoat khoi chuong trinh Word ta su dung menu lenh# File\close# File\exit# File\Print preview# Co hai cau dung trong ba cau# 3
+814 HCM123# Duoc su chi dao cua Quoc te Cong san, ban lanh dao cua Dang o nuoc ngoai do ai dung dau?# Ha Huy Tap# Nguyen Van Cu# Truong Chinh# Le Hong Phong# 4
+836 INT123# De tao mot bang bieu thi ta dung menu lenh nao?# Table\Insert\Cells# Table\Insert\Row# Table\Insert\Column# Table\Insert\ Table# 4
+838 INT103# fds# fds# fds# fds# fds# 2
+840 INT123# Bam to hop phim Ctrl + O trong Microsoft Word 2010 se thuc hien chuc nang gi?# Mo mot tai lieu moi# Mo mot tai lieu co san trong dia # Luu mot tai lieu# Dong chuong trinh Microsoft Word 2010# 2
+867 TA102# The director _______ for the meeting by the time I got to his office?# left# had left# leaves# will leave# 2
+872 TA102# My mother told me she _______ very tired since she came back from a visit to our grandparents was?# had been# is# has been# are# 2
+886 TA102# She doesn’t mind _______ me with my exercises?# help# to help# helping# helps# 3
+892 TA102# Miss Jane _______ typing the report when her boss came in?# didn't finish# hadn't finished# doesn't finish# can't finish# 2
+915 INT123# Tim kiem va thay the mot tu lap lai nhieu lan?# Edit\Go to# Edit\Replace# Edit\Find# A.b dung# 2
+930 TA102# This season's _______ include five new plays and several concerts of Chinese and Indian music.?# entertainments# entertainer# to entertain# entertaining# 1
+938 INT123# Bam to hop phim Ctrl + S trong Microsoft Word 2010 se thuc hien chuc nang gi?# Mo mot tai lieu moi# Mo mot tai lieu co san trong dia# Luu tai lieu hien ta# Dong chuong trinh Microsoft Word 2010# 3
+944 TA102# The workers stopped _______ a rest because they felt tired.?# take# to take# taking# took# 2
+945 INT123# Hien thi thanh cong cu chuan ta chon view\toolbar\?# Table and border# Standard# Drawing# Formatting# 2
+951 TA102# The ships had their days of _______ in the 1840s and 1850s.?# glorious# glory# glorify# gloriously# 2
+969 TA102# After he had spoken, a _______ silence fell on the room.?# die# death# deathly# deathless# 3
+986 TA101# What mean of Bye?# Chao bieu chieu# Chao buoi trua# Chao buoi toi# Tam biet# 4
+987 TA102# Space travel is one of the marvels wonders of modern _______.?# science# scientific# scientifically# scientist# 1
